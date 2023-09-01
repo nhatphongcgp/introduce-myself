@@ -9,7 +9,7 @@
 
 
 ### Where to find me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vuong-nguyen/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nguyen-nhat-phong-642017250/)
 
 ### Big Data 🚀:
 
