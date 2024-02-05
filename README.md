@@ -16,7 +16,7 @@
 ![Spark](https://img.shields.io/badge/Spark-★★☆-lightgrey?labelColor=E25A1C&logo=apache-spark&style=flat-square&logoColor=white)
 \
 ![Kafka](https://img.shields.io/badge/Kafka-★☆☆-lightgrey?labelColor=231F20&logo=apache-kafka&style=flat-square&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-★☆☆-lightgrey?labelColor=4285F4&logo=apacheairflow&style=flat-square&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-★★☆-lightgrey?labelColor=4285F4&logo=apacheairflow&style=flat-square&logoColor=white)
 
 ### Cloud ☁️:
 ![AWS](https://img.shields.io/badge/AWS-★★★-lightgrey?labelColor=232F3E&logo=amazon-aws&style=flat-square&logoColor=white)
