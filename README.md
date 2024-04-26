@@ -16,7 +16,6 @@
 ![Spark](https://img.shields.io/badge/Spark-★★☆-lightgrey?labelColor=E25A1C&logo=apache-spark&style=flat-square&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-★☆☆-lightgrey?labelColor=4285F4&logo=snowflake&style=flat-square&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-★★☆-lightgrey?labelColor=purple&logo=dagster&style=flat-square&logoColor=white)
-
 \
 ![Kafka](https://img.shields.io/badge/Kafka-★☆☆-lightgrey?labelColor=231F20&logo=apache-kafka&style=flat-square&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-★★☆-lightgrey?labelColor=4285F4&logo=apacheairflow&style=flat-square&logoColor=white)
