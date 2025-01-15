@@ -13,13 +13,12 @@
 
 ### Big Data 🚀:
 
-![Spark](https://img.shields.io/badge/Spark-★★☆-lightgrey?labelColor=E25A1C&logo=apache-spark&style=flat-square&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-★☆☆-lightgrey?labelColor=4285F4&logo=snowflake&style=flat-square&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-★★★-lightgrey?labelColor=E25A1C&logo=apache-spark&style=flat-square&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-★★☆-lightgrey?labelColor=4285F4&logo=snowflake&style=flat-square&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-★★☆-lightgrey?labelColor=purple&logo=dagster&style=flat-square&logoColor=white)
 \
-![Kafka](https://img.shields.io/badge/Kafka-★☆☆-lightgrey?labelColor=231F20&logo=apache-kafka&style=flat-square&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-★★☆-lightgrey?labelColor=4285F4&logo=apacheairflow&style=flat-square&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-★★☆-lightgrey?labelColor=E25A1C&logo=dbt&style=flat-square&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-★★☆-lightgrey?labelColor=231F20&logo=apache-kafka&style=flat-square&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-★★★-lightgrey?labelColor=E25A1C&logo=dbt&style=flat-square&logoColor=white)
 
 
 ### Cloud ☁️:
@@ -42,9 +41,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=flat-square&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square&logoColor=white)
-![Metabase](https://img.shields.io/badge/-Metabase-509EE3?logo=metabase&style=flat-square&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?logo=kubernetes&style=flat-square&logoColor=white)
 \
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?logo=pycharm&style=flat-square&logoColor=white)
+![Metabase](https://img.shields.io/badge/-Metabase-509EE3?logo=metabase&style=flat-square&logoColor=white)
+![Looker](https://img.shields.io/badge/-Looker-007ACC?logo=looker&style=flat-square&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-★★☆-lightgrey?labelColor=4285F4&logo=apacheairflow&style=flat-square&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-★★☆-lightgrey?labelColor=DC322F&logo=slack&style=flat-square&logoColor=white)
 
 
 
